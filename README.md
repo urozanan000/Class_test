@@ -14,3 +14,20 @@ Working with your classmates, and referencing my slides for today, do the follow
 Note that you can click "Preview changes" to see what the final results are going to look like. 
      
 To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such) into the assignment on blackboard.     
+
+
+
+> "This is what I learned: that everybody is talented, original and has something important to say." -Brenda Ueland
+[https://www.brainyquote.com/quote_of_the_day]
+
+|__2401__ | **4318** | __4325__|
+|:-----|:-----|:----|
+|_Data Science I_ | *SAS* | _Tax Resesarch_|
+|Shoemaker | Mhoon | Wadhwa|
+
+# cat
+```
+cat poem.txt
+```
+- combine file contents
+- display results on terminal
